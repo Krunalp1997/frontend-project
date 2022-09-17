@@ -1,0 +1,16 @@
+h1{
+  text-align:center;
+}
+img{
+  border:2px solid lightgrey;
+  height:400px;
+  weight:200px;
+}
+st{
+  text-color:lightgrey;
+}
+#but{
+  background-color:blue;
+  color:white;
+  border:none;
+}
